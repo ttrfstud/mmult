@@ -1,14 +1,13 @@
 {
   "name": "mmult",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simplest m x n x l alg for (mxn) by (nxl) matrix multiplication",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ttrfstud/mmult"
   },
-  "author": "",
   "devDependencies": {
-    "mocha": "~1.18.2"
+    "taptap": "0.0.3"
   }
 }
